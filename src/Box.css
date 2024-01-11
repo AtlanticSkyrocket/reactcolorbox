@@ -1,0 +1,12 @@
+.Box {
+  display: flex;
+  align-items: center; /* Vertically center the items */
+  justify-content: center; /* Horizontally center the items */
+}
+.Box-color {
+  margin-right: 10px;
+}
+
+.BoxRemove-btn {
+  margin-left: 10px;
+}
